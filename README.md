@@ -23,7 +23,11 @@ Mystic Memory is a captivating and visually appealing web-based memory card game
 
 ![Photo !](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p1.png?raw=true)
 <br/>
-![Photo 2](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p2.png?raw=true)
+
+<p align="center">
+    ![Photo 2](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p2.png?raw=true)
+</p>
+
 
 
 ### Demo
