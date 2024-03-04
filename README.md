@@ -48,7 +48,7 @@ XOXO Grid is a simple and interactive Tic Tac Toe game designed for web browsers
 ![Photo 5](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g2-p3.png?raw=true)
 
 ### Demo 
-[Watch XOXO Grid in Action](https://youtu.be/9xqDnDfTJxg)(Youtube🫡
+[Watch XOXO Grid in Action](https://youtu.be/9xqDnDfTJxg)(Youtube)🫡
 
 [Play Now](https://game2-byteblaster.netlify.app/)
 
