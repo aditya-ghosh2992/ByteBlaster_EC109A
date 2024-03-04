@@ -63,7 +63,7 @@ Cobra Quest is a simple and entertaining Snake Game crafted with HTML, CSS, and 
 ## Introduction
 This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScript. The game allows users to play against the computer, making a choice between rock, paper, and scissors. The outcome is determined by the classic rules of Rock Paper Scissors.
 
-![Photo 8(https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p1.png?raw=true)
+![Photo 8](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p1.png?raw=true)
 ![Alt 9](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p2.png?raw=true)
 ![Alt 10](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p3.png?raw=true)
 
