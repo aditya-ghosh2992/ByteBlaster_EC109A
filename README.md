@@ -17,6 +17,11 @@ The website also has to documentation,Github Repositories link with the depolyed
 3. Cobra Quest
 4. Tic Tac Toe
 
+## 1. Mystic Memory🤔
+
+Mystic Memory is a captivating and visually appealing web-based memory card game designed to challenge and enhance your memory skills. This project is implemented using HTML, CSS, and JavaScript to provide an interactive and enjoyable gaming experience.
+
+
 ### Demo
 
 [Watch Mystic Memory in Action](https://www.youtube.com/watch?v=DB4REQEI2Vs)
