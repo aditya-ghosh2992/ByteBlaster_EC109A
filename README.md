@@ -140,7 +140,7 @@ This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScri
     - Rock Paper Scissors
 
 - **Ankan Misra**
-    - Mystic Magic
+    - Mystic Memory 
     - Cobra Quest
     - Rock Paper Scissors
 
