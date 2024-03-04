@@ -1,4 +1,4 @@
-# Team ByteBlaster_EC109A💪
+# ByteBlaster_EC109A💪
 
 
 ### About The Project
