@@ -12,7 +12,7 @@ The website also has to documentation,Github Repositories link with the depolyed
 
 ### Our Game Collection
 
-1. Mystic Memory
+1. [Mystic Memory](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game1-Mystic-Memory/README.md)
 2. XoXo Grid
 3. Cobra Quest
 4. Tic Tac Toe
