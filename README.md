@@ -24,7 +24,7 @@ Mystic Memory is a captivating and visually appealing web-based memory card game
 
 ### Demo
 
-[Watch Mystic Memory in Action](https://www.youtube.com/watch?v=DB4REQEI2Vs)
+[Watch Mystic Memory in Action](https://www.youtube.com/watch?v=DB4REQEI2Vs)(Youtube)
 
 [Play Now](https://game1-bytebluster.netlify.app/)
 
