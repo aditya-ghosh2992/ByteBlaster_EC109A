@@ -205,7 +205,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 ## Demo
 [Watch Word Scramble In Action](https://youtu.be/1lKxTR8MOeE)(Youtube)🙃
 
-[Play Now](Game Link here)
+[Play Now](https://game4-rockpapersissor.netlify.app/)
 
 # Software used🥰
 
