@@ -119,6 +119,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 - [VS Code Editor](https://code.visualstudio.com/)✌️
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)🐐
 - [Google Meet](https://meet.google.com/)👻
+- [Google Firebase]
 
 # Contribution
 - **Aditya Ghosh** 🙀
@@ -126,6 +127,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
     - GitHub Repo
     - Live deplyoment
     - Rock Paper Scissors
+    - Signup & login feature
 
 - **Ankan Misra**👾
     - Mystic Memory 
@@ -138,3 +140,4 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
     - Cobra Quest
 - **Amirul Ali Mallick** 🤡   
     - XoXo Grid
+    - Team Page
