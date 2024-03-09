@@ -39,7 +39,6 @@ Mystic Memory is a captivating and visually appealing web-based memory card game
 XOXO Grid is a simple and interactive Tic Tac Toe game designed for web browsers. This game allows two players to take turns marking the spaces on a 3x3 grid with "X" and "O" symbols. The first player to achieve a row, column, or diagonal of three of their symbols wins the game.
 
 
-<br/>
 ![Photo 4](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g2-p2.png?raw=true)
 <br/>
 <br/>
@@ -56,7 +55,7 @@ XOXO Grid is a simple and interactive Tic Tac Toe game designed for web browsers
 Cobra Quest is a simple and entertaining Snake Game crafted with HTML, CSS, and JavaScript.
 
 
-<br/>
+
 ![Photo 7](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g3-p2.png?raw=true)
 
 ### Demo
@@ -71,7 +70,7 @@ Cobra Quest is a simple and entertaining Snake Game crafted with HTML, CSS, and 
 This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScript. The game allows users to play against the computer, making a choice between rock, paper, and scissors. The outcome is determined by the classic rules of Rock Paper Scissors.
 
 
-<br/>
+
 ![Alt 9](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p2.png?raw=true)
 <br/>
 <br/>
