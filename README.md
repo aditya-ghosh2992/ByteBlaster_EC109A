@@ -87,6 +87,25 @@ This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScri
 
 [Play Now](https://game4-rockpapersissor.netlify.app/)
 
+## 4. [Word Scramble](Game Link here)✍️
+
+## Introduction
+Welcome to Word Scramble, a fun and challenging word game where players unscramble letters to form meaningful words. Test your vocabulary and quick thinking skills as you unravel the jumbled letters and discover the hidden words.
+
+
+![Screenshot 1](https://github.com/aditya-ghosh2992/demo/blob/main/Scarmble%20Photo/Screenshot%202024-03-09%20at%2013.38.05.png)
+<p align="center">  Main Page </p>
+<br/>
+<br/>
+![Screenshot 2](https://github.com/aditya-ghosh2992/demo/blob/main/Scarmble%20Photo/Screenshot%202024-03-09%20at%2013.38.24.png)
+<p align="center">  Win Popup Screen </p>
+
+
+## Demo
+[Watch Tic Tac Toe In Action](https://youtu.be/Rn6PCVUfc74)(Youtube)🙃
+
+[Play Now](Game Link here)
+
 # Software used🥰
 
 - HTML
