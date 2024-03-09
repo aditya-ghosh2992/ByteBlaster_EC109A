@@ -16,6 +16,7 @@ The website also has to documentation,Github Repositories link with the depolyed
 2. [XoXo Grid](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game2XoXo%20Grid/README.md)💀
 3. [Cobra Quest](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game3-CobraQuest/README%20(1).md)🐍
 4. [Rock Paper Scissor](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game4-RockRaperScissors/README%20(2).md)🗿
+5. [Word Scramble](Link lies here)✍️
 
 ## 1. [Mystic Memory](https://game1-bytebluster.netlify.app/)🤔
 
@@ -102,7 +103,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 
 
 ## Demo
-[Watch Tic Tac Toe In Action](https://youtu.be/Rn6PCVUfc74)(Youtube)🙃
+[Watch Word Scramble In Action](https://youtu.be/Rn6PCVUfc74)(Youtube)🙃
 
 [Play Now](Game Link here)
 
@@ -132,6 +133,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
     - Mystic Memory 
     - Cobra Quest
     - Rock Paper Scissors
+    - Word Scramble
 
 - **Suman Jain**👽
     - [Main Website Development](https://gamesculpt-byteblaster.netlify.app/)
