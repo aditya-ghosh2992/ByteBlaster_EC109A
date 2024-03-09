@@ -101,45 +101,9 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 
 
 ## Demo
-[Watch Word Scramble In Action](# ByteBlaster_EC109A💪
-
-
-# Software used🥰
-
-- HTML
-- CSS
-- JS
-
-# Our Project Tools
-
-- [Chatgpt](https://chat.openai.com/)🤖
-- [Github](https://github.com/)⚡️
-- [Netlify](https://www.netlify.com/)🗣️
-- [VS Code Editor](https://code.visualstudio.com/)✌️
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)🐐
-- [Google Meet](https://meet.google.com/)👻
-
-# Contribution
-- **Aditya Ghosh** 🙀
-    - Team Leader
-    - GitHub Repo
-    - Live deplyoment
-    - Rock Paper Scissors
-
-- **Ankan Misra**👾
-    - Mystic Memory 
-    - Cobra Quest
-    - Rock Paper Scissors
-    - Word Scramble
-
-- **Suman Jain**👽
-    - [Main Website Development](https://gamesculpt-byteblaster.netlify.app/)
-    - Cobra Quest
-- **Amirul Ali Mallick** 🤡   
-    - XoXo Grid
-)(Youtube)🙃
-
+[Watch Word Scramble In Action](https://youtu.be/1lKxTR8MOeE)(Youtube🙃)
 [Play Now](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/)
+
 
 # Software used🥰
 
