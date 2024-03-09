@@ -22,7 +22,7 @@ The website also has to documentation,Github Repositories link with the depolyed
 
 Mystic Memory is a captivating and visually appealing web-based memory card game designed to challenge and enhance your memory skills. This project is implemented using HTML, CSS, and JavaScript to provide an interactive and enjoyable gaming experience.
 
-<br/>
+
 ![Photo 2](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p2.png?raw=true)
 
 
