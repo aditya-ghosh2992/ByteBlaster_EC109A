@@ -2,7 +2,7 @@
 
 
 ### About The Project
-Our team has created a website of the name [**GameSculpt**](https://main--gamesculpt-byteblaster.netlify.app/)
+Our team has created a website of the name [**GameSculpt**](https://devwrap1-mcpd.vercel.app/)
 
 In this website we have created 4 fully operating games with live links connecting to playable servers.
 
