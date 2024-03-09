@@ -88,7 +88,7 @@ This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScri
 
 [Play Now](https://game4-rockpapersissor.netlify.app/)
 
-## 4. [Word Scramble](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/x)✍️
+## 4. [Word Scramble](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/)✍️
 
 ## Introduction
 Welcome to Word Scramble, a fun and challenging word game where players unscramble letters to form meaningful words. Test your vocabulary and quick thinking skills as you unravel the jumbled letters and discover the hidden words.
