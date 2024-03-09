@@ -16,7 +16,7 @@ The website also has to documentation,Github Repositories link with the depolyed
 2. [XoXo Grid](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game2XoXo%20Grid/README.md)💀
 3. [Cobra Quest](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game3-CobraQuest/README%20(1).md)🐍
 4. [Rock Paper Scissor](https://github.com/aditya-ghosh2992/ByteBlaster_EC109A/blob/main/MyGame/Game4-RockRaperScissors/README%20(2).md)🗿
-5. [Word Scramble](Link lies here)✍️
+5. [Word Scramble](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/)✍️
 
 ## 1. [Mystic Memory](https://game1-bytebluster.netlify.app/)🤔
 
@@ -88,7 +88,7 @@ This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScri
 
 [Play Now](https://game4-rockpapersissor.netlify.app/)
 
-## 4. [Word Scramble](Game Link here)✍️
+## 4. [Word Scramble](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/x)✍️
 
 ## Introduction
 Welcome to Word Scramble, a fun and challenging word game where players unscramble letters to form meaningful words. Test your vocabulary and quick thinking skills as you unravel the jumbled letters and discover the hidden words.
@@ -105,7 +105,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 ## Demo
 [Watch Word Scramble In Action](https://youtu.be/Rn6PCVUfc74)(Youtube)🙃
 
-[Play Now](Game Link here)
+[Play Now](https://65ec1f3f72114a0008c7edac--game5-byteblaster.netlify.app/)
 
 # Software used🥰
 
