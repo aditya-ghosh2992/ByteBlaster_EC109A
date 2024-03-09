@@ -4,11 +4,16 @@
 ### About The Project
 Our team has created a website of the name [**GameSculpt**](https://devwrap1-mcpd.vercel.app/)
 
-In this website we have created 4 fully operating games with live links connecting to playable servers.
+In this website we have created 5 fully operating games with live links connecting to playable servers.
 
 The website also has to documentation,Github Repositories link with the depolyed **playable** links for every game.
 
-
+## New Features
+1. Responsive website
+2. Gamming Interface and UI/UX updated
+3. Signup and login frature with Firebase
+4. New Game Introduced (Word Scramble)
+5. Team Member Page
 
 ## Our Game Collection
 
