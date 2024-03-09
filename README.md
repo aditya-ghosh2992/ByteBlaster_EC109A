@@ -2,7 +2,7 @@
 
 
 ### About The Project
-Our team has created a website of the name [**GameSculpt**](https://gamesculpt-byteblaster.netlify.app/)
+Our team has created a website of the name [**GameSculpt**](https://main--gamesculpt-byteblaster.netlify.app/)
 
 In this website we have created 4 fully operating games with live links connecting to playable servers.
 
@@ -129,7 +129,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
     - Word Scramble
 
 - **Suman Jain**👽
-    - [Main Website Development](https://gamesculpt-byteblaster.netlify.app/)
+    - [Main Website Development](https://main--gamesculpt-byteblaster.netlify.app/)
     - Cobra Quest
 - **Amirul Ali Mallick** 🤡   
     - XoXo Grid
