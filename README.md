@@ -98,8 +98,6 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 <p align="center">  Main Page </p>
 <br/>
 <br/>
-![Screenshot 2](https://github.com/aditya-ghosh2992/demo/blob/main/Scarmble%20Photo/Screenshot%202024-03-09%20at%2013.38.24.png)
-<p align="center">  Win Popup Screen </p>
 
 
 ## Demo
