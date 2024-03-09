@@ -22,8 +22,6 @@ The website also has to documentation,Github Repositories link with the depolyed
 
 Mystic Memory is a captivating and visually appealing web-based memory card game designed to challenge and enhance your memory skills. This project is implemented using HTML, CSS, and JavaScript to provide an interactive and enjoyable gaming experience.
 
-![Photo !](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p1.png?raw=true)
-<br/>
 <br/>
 ![Photo 2](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g1-p2.png?raw=true)
 
@@ -40,8 +38,7 @@ Mystic Memory is a captivating and visually appealing web-based memory card game
 
 XOXO Grid is a simple and interactive Tic Tac Toe game designed for web browsers. This game allows two players to take turns marking the spaces on a 3x3 grid with "X" and "O" symbols. The first player to achieve a row, column, or diagonal of three of their symbols wins the game.
 
-![Photo 3](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g2-p1.png?raw=true)
-<br/>
+
 <br/>
 ![Photo 4](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g2-p2.png?raw=true)
 <br/>
@@ -58,8 +55,7 @@ XOXO Grid is a simple and interactive Tic Tac Toe game designed for web browsers
 ### Introduction
 Cobra Quest is a simple and entertaining Snake Game crafted with HTML, CSS, and JavaScript.
 
-![Photo 6](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g3-p1.png?raw=true)
-<br/>
+
 <br/>
 ![Photo 7](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g3-p2.png?raw=true)
 
@@ -74,8 +70,7 @@ Cobra Quest is a simple and entertaining Snake Game crafted with HTML, CSS, and 
 ## Introduction
 This is a simple Rock Paper Scissors game implemented in HTML, CSS, and JavaScript. The game allows users to play against the computer, making a choice between rock, paper, and scissors. The outcome is determined by the classic rules of Rock Paper Scissors.
 
-![Photo 8](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p1.png?raw=true)
-<br/>
+
 <br/>
 ![Alt 9](https://github.com/aditya-ghosh2992/demo/blob/main/photo%20readme/g4-p2.png?raw=true)
 <br/>
