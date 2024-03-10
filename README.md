@@ -119,25 +119,24 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 - [VS Code Editor](https://code.visualstudio.com/)✌️
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)🐐
 - [Google Meet](https://meet.google.com/)👻
-- [Google Firebase]
+- [Google Firebase](https://firebase.google.com/)🔥
 
 # Contribution
-- **Aditya Ghosh** 🙀
-    - Team Leader
+- **Aditya Ghosh** (Team Leader, Backend)🙀
     - GitHub Repo
     - Live deplyoment
     - Rock Paper Scissors
-    - Signup & login feature
+    - Signup & login feature along with Firebase
 
-- **Ankan Misra**👾
+- **Ankan Misra** (Game Development)👾
     - Mystic Memory 
     - Cobra Quest
     - Rock Paper Scissors
     - Word Scramble
 
-- **Suman Jain**👽
+- **Suman Jain** (Complete Frontend)👽
     - [Main Website Development](https://main--gamesculpt-byteblaster.netlify.app/)
     - Cobra Quest
-- **Amirul Ali Mallick** 🤡   
+- **Amirul Ali Mallick** (🤡)   
     - XoXo Grid
     - Team Page
