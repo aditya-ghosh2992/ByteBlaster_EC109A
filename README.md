@@ -11,9 +11,9 @@ The website also has to documentation,Github Repositories link with the depolyed
 ## New Features
 1. Responsive website
 2. Gamming Interface and UI/UX updated
-3. Signup and login frature with Firebase
+3. Signup and login feature intregated with Google Firebase
 4. New Game Introduced (Word Scramble)
-5. Team Member Page
+5. Team Member Page and animated Footer
 
 ## Our Game Collection
 
