@@ -135,8 +135,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
     - Word Scramble
 
 - **Suman Jain** (Complete Frontend)👽
-    - [Main Website Development](https://main--gamesculpt-byteblaster.netlify.app/)
+    - [Main Website Development](https://devwrap1-mcpd.vercel.app/)
     - Cobra Quest
 - **Amirul Ali Mallick** (🤡)   
-    - XoXo Grid
     - Team Page
