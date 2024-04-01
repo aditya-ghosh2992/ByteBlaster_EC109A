@@ -122,7 +122,7 @@ Welcome to Word Scramble, a fun and challenging word game where players unscramb
 - [Google Firebase](https://firebase.google.com/)🔥
 
 # Contribution
-- **Aditya Ghosh** (Team Leader, Backend)🙀
+- **Aditya Ghosh aka Khsui didi ** (Team Leader, Backend)🙀
     - GitHub Repo
     - Live deplyoment
     - Rock Paper Scissors
